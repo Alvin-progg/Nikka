@@ -1,0 +1,28 @@
+.about-container {
+    width: 100%;
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center ;
+    
+    
+}
+
+.content {
+    text-align: justify;
+    width: 80%;
+    gap: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+button {
+    padding: 5px;
+    margin: 2px;
+    background-color: pink;
+    border-radius: 8px;
+}
+p {
+    font-size: 20px;
+}

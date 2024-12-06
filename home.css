@@ -1,0 +1,23 @@
+.hero-container {
+    width: 100%;
+    text-align: justify;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center ;
+
+
+} 
+.intro {
+    text-align: justify;
+}
+input {
+    background: transparent;
+}
+button {
+    padding: 5px;
+    margin: 2px;
+    background-color: pink;
+    border-radius: 8px;
+}
